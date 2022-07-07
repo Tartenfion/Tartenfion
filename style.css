@@ -1,1 +1,10 @@
+body{
+  margin: 0;
+  font-family: system-ui;
+}
 
+.hero {
+  background-color: #074f57
+  background-image: url();
+  color: white;
+}
